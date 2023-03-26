@@ -7,4 +7,4 @@
 📫 How to reach me gopalgovind2006@gmail.com
 
 ⚡ Fun fact I am Funny
-<br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
+<br>[Web Developer]  [Programmar]   [Coder]
