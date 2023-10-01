@@ -1,8 +1,8 @@
 👀 I’m interested in programming
 
-🌱 I’m currently learning Android
+🌱 I’m currently learning Python
 
-💬 Ask me about Android , Python , C , C++ , HTML , CSS , JS
+💬 Ask me about Python, C, C++, HTML
 
 📫 How to reach me gopalgovind2006@gmail.com
 
